@@ -27,5 +27,5 @@ I’m eager to start my career as a **web front-end developer**. I’m actively 
 Feel free to connect with me or check out my work! ✨
 
 ## Let's Connect!
-- https://www.linkedin.com/in/mariuszmarkowicz/
+- linkedin.com/in/mariuszmarkowicz/
 - markowicz1@gmail.com
