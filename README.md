@@ -15,7 +15,7 @@ I recently finished a 6 month UX/UI course at BIT - Beam Institute Of Technology
 ## Current Projects 🚧
 
 I'm currently working on two personal projects, which I’ll be sharing soon:
-1. **RATRAD** – A guide to help you choose the right type of bike for your needs.
+1. **RADRAT** – A guide to help you choose the right type of bike for your needs.
 2. **NINE TILES** – A simple social application using backend elements with the ability to log in, add posts, comment and like them.
 
 Stay tuned for updates as I continue working on these!
